@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+# Church Countdown Timer
+
+A simple countdown timer application for church services that counts down to 7 PM daily.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Deployment to GitHub Pages
+
+This project is configured for easy deployment to GitHub Pages:
+
+1. Update the `homepage` field in `package.json` with your GitHub username:
+   ```
+   "homepage": "https://your-github-username.github.io/countdown"
+   ```
+
+2. Deploy the app to GitHub Pages:
+   ```
+   npm run deploy
+   ```
+
+3. Your app will be available at https://your-github-username.github.io/countdown
+
+Note: Make sure your repository is named "countdown" and is connected to your GitHub account.
 
 ## Available Scripts
 
