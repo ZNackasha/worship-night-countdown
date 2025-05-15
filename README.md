@@ -9,16 +9,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project is configured for easy deployment to GitHub Pages:
 
 1. Update the `homepage` field in `package.json` with your GitHub username:
+
    ```
-   "homepage": "https://your-github-username.github.io/countdown"
+   "homepage": "https://znackasha.github.io/countdown"
    ```
 
 2. Deploy the app to GitHub Pages:
+
    ```
    npm run deploy
    ```
 
-3. Your app will be available at https://your-github-username.github.io/countdown
+3. Your app will be available at https://znackasha.github.io/countdown
 
 Note: Make sure your repository is named "countdown" and is connected to your GitHub account.
 

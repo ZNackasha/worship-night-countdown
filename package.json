@@ -2,7 +2,7 @@
   "name": "countdown",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://[your-github-username].github.io/countdown",
+  "homepage": "https://[znackasha].github.io/countdown",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -41,3 +41,4 @@
     ]
   }
 }
+
