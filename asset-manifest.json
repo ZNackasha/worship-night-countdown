@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/worship-night-countdown/static/css/main.6798bf41.css",
+    "main.css": "/worship-night-countdown/static/css/main.32d54827.css",
     "main.js": "/worship-night-countdown/static/js/main.d5f4994d.js",
     "static/js/453.af009778.chunk.js": "/worship-night-countdown/static/js/453.af009778.chunk.js",
     "static/media/logo.svg": "/worship-night-countdown/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/worship-night-countdown/index.html",
-    "main.6798bf41.css.map": "/worship-night-countdown/static/css/main.6798bf41.css.map",
+    "main.32d54827.css.map": "/worship-night-countdown/static/css/main.32d54827.css.map",
     "main.d5f4994d.js.map": "/worship-night-countdown/static/js/main.d5f4994d.js.map",
     "453.af009778.chunk.js.map": "/worship-night-countdown/static/js/453.af009778.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6798bf41.css",
+    "static/css/main.32d54827.css",
     "static/js/main.d5f4994d.js"
   ]
 }
