@@ -14,7 +14,7 @@ function App() {
       const now = new Date();
       // Set target time to 7 PM today
       const targetTime = new Date();
-      targetTime.setHours(19, 0, 0, 0); // 7 PM (20:00:00)
+      targetTime.setHours(19, 15, 0, 0); // 7 PM (20:00:00)
 
       // If it's already past 7 PM, set target to 8 PM tomorrow
       if (now >= targetTime) {
